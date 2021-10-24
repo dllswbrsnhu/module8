@@ -2,6 +2,7 @@
 # New CS 230 Project Module 8
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room. The Gaming Room wants to develop a web-based game that serves multiple platforms based on their current game, Draw It or Lose It, which is currently available in an Android app only.
 
 What did you do particularly well in developing this documentation? The last section, the recommendations was probably the only successful submission.
 
